@@ -172,15 +172,6 @@ button:active {
   animation: spin 2s linear infinite;
 }
 
-.designer {
-  position: absolute;
-  color: white;
-  right: 0.5rem;
-  bottom: 0;
-  font-size: small;
-  text-shadow: none;
-}
-
 @keyframes spin {
   0% {
     transform: rotate(0deg);
