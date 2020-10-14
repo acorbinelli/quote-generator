@@ -198,4 +198,8 @@ button:active {
   .quote-author {
     margin: 0 1rem;
   }
+
+  .fa-quote-left {
+    font-size: 1rem;
+  }
 } ;
