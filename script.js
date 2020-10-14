@@ -41,7 +41,7 @@ async function getQuote() {
     } else {
       quoteText.classList.remove("long-quote")
     }
-    authorText.innerText = data.quoteAuthor
+    // authorText.innerText = data.quoteAuthor
     quoteText.innerText = data.quoteText
 
     removeLoadingSpinner()
